@@ -42,7 +42,13 @@
     "vendor/font-awesome/brands"
 ;
 
+.author__avatar {
+  display: block;
+}
+
 .author__avatar img {
-    border-radius: 8px;
-    border: none;
+  border-radius: 8px !important;
+  border: none !important;
+  box-shadow: none !important;
+  clip-path: none !important;
 }
