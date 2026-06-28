@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/MadisonDell_CV_20260606.pdf" width="100%" height="900px">
+<iframe src="/files/Madison_Dell_CV.pdf" width="100%" height="900px">
 </iframe>
