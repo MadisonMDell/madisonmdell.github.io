@@ -38,7 +38,7 @@ My research examines how institutional design shapes educational opportunity. I 
 
 **Status:** Working paper (available [here](https://ideas.repec.org/p/iso/educat/0255.html))
 
-**How does online choice architecture influence career decisions?** Using quasi-experimental variation on Switzerland's largest apprenticeship platform, Yousty, we examine how the ranking and presentation of occupational recommendations affect search and application behavior. We find that relatively small design choices substantially influence which occupations young people explore and pursue, demonstrating how digital platforms shape education-to-work transitions.
+**How does online choice architecture influence career decisions?** Using quasi-experimental variation on Switzerland's largest apprenticeship platform (Yousty), we examine how the ranking and presentation of occupational recommendations affect search and application behavior. We find that relatively small design choices substantially influence which occupations young people explore and pursue, demonstrating how digital platforms shape education-to-work transitions.
 
 ---
 
