@@ -10,7 +10,7 @@ My research examines how institutional design shapes educational opportunity. I 
 
 ---
 
-## Selected Research
+## Current Projects
 
 ### Unequal and Persistent Effects of Student Loan Policy
 
