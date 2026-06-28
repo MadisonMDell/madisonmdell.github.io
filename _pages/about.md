@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome! I'm glad you found your way here.
+**Welcome! I'm glad you found your way here.**
 
 I am a Postdoctoral Researcher in the Department of Business Administration at the University of Zurich and the Swiss Leading House on the Economics of Education, Firm Behavior, and Training Policies. Before joining the University of Zurich, I earned my Ph.D. in Economics of Education from Stanford University and worked in higher education policy in Tennessee.
 
