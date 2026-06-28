@@ -44,9 +44,14 @@
 
 .author__avatar {
   display: block;
+  width: 220px !important;
+  max-width: 220px !important;
 }
 
 .author__avatar img {
+  width: 220px !important;
+  max-width: 220px !important;
+  height: auto !important;
   border-radius: 8px !important;
   border: none !important;
   box-shadow: none !important;
