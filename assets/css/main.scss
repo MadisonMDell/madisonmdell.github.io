@@ -42,16 +42,18 @@
     "vendor/font-awesome/brands"
 ;
 
-.author__avatar {
-  display: block;
+.sidebar .author__avatar {
   width: 220px !important;
   max-width: 220px !important;
+  margin-bottom: 1em !important;
 }
 
-.author__avatar img {
+.sidebar .author__avatar img,
+.sidebar img.author__avatar {
   width: 220px !important;
   max-width: 220px !important;
   height: auto !important;
+  display: block !important;
   border-radius: 8px !important;
   border: none !important;
   box-shadow: none !important;
