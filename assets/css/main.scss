@@ -42,6 +42,12 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Slightly widen the author sidebar */
+.sidebar {
+  width: 260px !important;
+}
+
+/* Resize author photo */
 .sidebar .author__avatar {
   width: 220px !important;
   max-width: 220px !important;
