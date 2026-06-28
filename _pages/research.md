@@ -30,7 +30,7 @@ More broadly, the study shows how seemingly uniform higher education policies ca
 
 *with Kaylee T. Matheny, Gus Gluek, Rachel Baker, Eric Bettinger, Alex Monday, and Hidahis Mesa*
 
-**Status:** Revise and resubmit, Journal of Policy Analysis and Management ([working paper](https://edworkingpapers.com/ai26-1483) and [replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQBEH5) available)
+**Status:** Revise and resubmit, Journal of Policy Analysis and Management ([working paper](https://edworkingpapers.com/ai26-1346) and [replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQBEH5) available)
 
 As colleges search for ways to improve student success, many are replacing traditional 15-week semesters with shorter, more intensive course formats. This paper examines whether condensed courses improve academic outcomes using administrative data from every public community college in Tennessee alongside interviews with students, faculty, and staff.
 
