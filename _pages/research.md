@@ -18,7 +18,7 @@ My research examines how institutional design shapes educational opportunity. I 
 
 **Status:** Working paper (available [here](https://edworkingpapers.com/ai26-1483))
 
-**Why do uniform federal policies produce unequal effects across colleges?** Using U.S. college data from 2006–2023, we study two reforms to the Parent PLUS loan program and show that institutions with greater financial dependence on the program—particularly Historically Black Colleges and Universities (HBCUs)—experienced larger enrollment losses after a tightening of federal credit standards. Even after the policy was reversed, enrollment did not fully recover, suggesting that temporary policy changes can have lasting institutional consequences.
+**Why do uniform federal policies produce unequal effects across colleges?** Using U.S. college data from 2006–2023, we study two reforms to the Parent PLUS loan program and show that institutions with greater financial dependence on the program (specifically, Historically Black Colleges and Universities) experienced larger enrollment losses after a tightening of federal credit standards. Even after the policy was reversed, enrollment did not fully recover, suggesting that temporary policy changes can have lasting institutional consequences.
 
 ---
 
