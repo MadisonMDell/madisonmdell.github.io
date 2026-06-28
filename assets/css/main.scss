@@ -42,24 +42,11 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Slightly widen the author sidebar */
-.sidebar {
-  width: 260px !important;
+.author__avatar {
+  display: block;
 }
 
-/* Resize author photo */
-.sidebar .author__avatar {
-  width: 220px !important;
-  max-width: 220px !important;
-  margin-bottom: 1em !important;
-}
-
-.sidebar .author__avatar img,
-.sidebar img.author__avatar {
-  width: 220px !important;
-  max-width: 220px !important;
-  height: auto !important;
-  display: block !important;
+.author__avatar img {
   border-radius: 8px !important;
   border: none !important;
   box-shadow: none !important;
