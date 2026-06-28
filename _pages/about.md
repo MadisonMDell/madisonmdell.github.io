@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I'm glad you found your way here.
 
-I am a Postdoctoral Researcher in the Department of Business Administration at the University of Zurich and the Swiss Leading House on the Economics of Education, Firm Behavior, and Training Policies. Before joining the University of Zurich, I earned my Ph.D. in Economics of Education from Stanford University and worked in state higher education policy in Tennessee (USA).
+I am a Postdoctoral Researcher in the Department of Business Administration at the University of Zurich and the Swiss Leading House on the Economics of Education, Firm Behavior, and Training Policies. Before joining the University of Zurich, I earned my Ph.D. in Economics of Education from Stanford University and worked in higher education policy in Tennessee.
 
 My research lies at the intersection of education, economics, and public policy. I study how institutions, policies, and information shape educational and occupational opportunities. Much of my work focuses on postsecondary education and vocational education and training, where I use experimental and quasi-experimental methods, mixed methods, and large-scale administrative data to understand how institutional design shapes educational and labor market outcomes.
 
