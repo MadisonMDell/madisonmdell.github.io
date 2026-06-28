@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I view teaching as an opportunity to help students grow both academically and personally. The most rewarding part of teaching, for me, is building relationships with students and helping them discover what excites them, whether that's developing a passion for research, gaining confidence in quantitative methods, or finding a new way of thinking about the world. I strive to create a classroom that combines high expectations with flexibility, empathy, and mutual respect, meeting students where they are while challenging them to reach their full potential. Above all, I hope students leave my courses feeling supported, inspired, and confident in their ability to continue learning, asking thoughtful questions, and contributing meaningfully in whatever paths they pursue.
+I view teaching as an opportunity to help students grow both academically and personally. The most rewarding part of teaching, for me, is building relationships with students and helping them discover what excites them, whether that's developing a passion for research, gaining confidence in quantitative methods, or finding a new way of thinking about the world. I strive to create a classroom that combines high expectations with flexibility, empathy, and mutual respect. Above all, I hope students leave my courses feeling supported, inspired, and eager to continue learning long after the semester ends.
 
 ---
 
