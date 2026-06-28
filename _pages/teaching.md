@@ -33,4 +33,4 @@ Spring 2020–2022
 - Led weekly discussion sections for undergraduate and graduate students.
 - Redesigned course activities for online instruction during the COVID-19 pandemic.
 - Helped transition the course back to in-person instruction in 2022.
-- **Syllabus:** [PUBLPOL 301B, Spring 2022](/files/PUBPOL301B_Syllabus.pdf)
+- **Syllabus:** [PUBLPOL 301B, Spring 2022](/files/PUBLPOL301B_Syllabus.pdf)
