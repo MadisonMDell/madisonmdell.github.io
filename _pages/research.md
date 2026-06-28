@@ -4,7 +4,7 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: true
---------------------
+---
 
 My research examines how institutional design shapes educational opportunity. I study how policies, information, and organizational decisions influence educational and labor market outcomes using experimental, quasi-experimental, and mixed methods. While my work spans higher education, vocational education and training, and labor market policy, the common thread is understanding how institutions shape individual decision-making and long-run outcomes.
 
