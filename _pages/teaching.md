@@ -15,7 +15,7 @@ I view teaching as an opportunity to help students grow both academically and pe
 
 **Adjunct Assistant Professor (Instructor of Record)**  
 *HOD 2500: Systematic Inquiry*  
-*Spring 2025*
+Spring 2025
 
 - Instructor of record for 87 undergraduate students.
 - Managed a team of three teaching assistants.
@@ -28,7 +28,7 @@ I view teaching as an opportunity to help students grow both academically and pe
 
 **Teaching Assistant**  
 *PUBLPOL 301B: Economic Policy Analysis for Policymakers*  
-*Spring 2020–2022*
+Spring 2020–2022
 
 - Led weekly discussion sections for undergraduate and graduate students.
 - Redesigned course activities for online instruction during the COVID-19 pandemic.
