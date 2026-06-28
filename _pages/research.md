@@ -58,7 +58,7 @@ The results suggest that seemingly minor design choices on digital platforms can
 
 *with Patrick Lehnert, Uschi Backes-Gellner, and Eric Bettinger*
 
-**Status:** Under review (working paper available [here](https://www.nber.org/papers/w32679))
+**Status:** Under review ([working paper](https://www.nber.org/papers/w32679) available)
 
 How do colleges shape the economic vitality of the communities they serve? While governments frequently invest in expanding higher education to promote regional development, surprisingly little evidence exists on whether these investments stimulate local economic growth.
 
