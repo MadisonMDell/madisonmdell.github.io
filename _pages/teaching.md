@@ -25,7 +25,7 @@ Spring 2025
 **Selected Teaching Evaluations**
 
 | Instructor measure | My rating | Department average |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Overall instructor rating | **4.40 / 5** | 4.43 |
 | Demonstrated interest in students' learning | **4.74 / 5** | 4.62 |
 | Created a welcoming and inclusive classroom environment | **4.68 / 5** | 4.65 |
@@ -47,7 +47,7 @@ Spring 2020–2022
 **Teaching Evaluations**
 
 | Term | Overall effectiveness | Student learning | Full evaluation |
-| --- | ---: | ---: | --- |
+| --- | --- | --- | --- |
 | Spring 2020 | **4.69 / 5** | **4.54 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2020Eval.pdf) |
 | Spring 2021 | **4.60 / 5** | **4.30 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2021Eval.pdf) |
 | Spring 2022 | **4.67 / 5** | **4.60 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2022Eval.pdf) |
