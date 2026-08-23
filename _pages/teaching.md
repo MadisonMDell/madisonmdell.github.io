@@ -51,11 +51,3 @@ Spring 2020–2022
 | Spring 2020 | **4.69 / 5** | **4.54 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2020Eval.pdf) |
 | Spring 2021 | **4.60 / 5** | **4.30 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2021Eval.pdf) |
 | Spring 2022 | **4.67 / 5** | **4.60 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2022Eval.pdf) |
-
-**Selected Student Feedback**
-
-> “Madison explains the material well. She simplifies ambiguous and difficult concepts.”
-
-> “Madison is one of the best TAs I have ever had!”
-
-> “Incredibly organized and responsive.”
