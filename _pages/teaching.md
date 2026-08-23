@@ -48,9 +48,9 @@ Spring 2020–2022
 
 | Term | Overall effectiveness | Student learning | Full evaluation |
 | --- | ---: | ---: | --- |
-| Spring 2020 | **4.69 / 5** | **4.54 / 5** | [View evaluation](/files/Stanford_Teaching_Evaluation_2020.pdf) |
-| Spring 2021 | **4.60 / 5** | **4.30 / 5** | [View evaluation](/files/Stanford_Teaching_Evaluation_2021.pdf) |
-| Spring 2022 | **4.67 / 5** | **4.60 / 5** | [View evaluation](/files/Stanford_Teaching_Evaluation_2022.pdf) |
+| Spring 2020 | **4.69 / 5** | **4.54 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2020Eval.pdf) |
+| Spring 2021 | **4.60 / 5** | **4.30 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2021Eval.pdf) |
+| Spring 2022 | **4.67 / 5** | **4.60 / 5** | [View evaluation](/files/PUBLPOL301B_Spring2022Eval.pdf) |
 
 **Selected Student Feedback**
 
