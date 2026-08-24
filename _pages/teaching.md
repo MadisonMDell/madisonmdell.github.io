@@ -37,7 +37,7 @@ Spring 2025
 
 **Teaching Assistant**  
 *PUBLPOL 301B: Economic Policy Analysis for Policymakers*  
-Spring 2020–2022
+Spring 2020, 2021, & 2022
 
 - Led weekly discussion sections for undergraduate and graduate students.
 - Redesigned course activities for online instruction during the COVID-19 pandemic.
