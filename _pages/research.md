@@ -46,6 +46,6 @@ My research examines how institutional design shapes educational opportunity. I 
 
 *with Patrick Lehnert, Uschi Backes-Gellner, and Eric Bettinger*
 
-**Status:** Working paper (available [here] (https://www.nber.org/papers/w32679))
+**Status:** Working paper (available [here](https://www.nber.org/papers/w32679))
 
 **Do colleges stimulate local economic development?** We combine newly assembled data on public branch campus openings with satellite-based measures of economic activity to estimate the local effects of expanding higher education. We find that new campuses increase local economic activity, educational attainment, and employment in fields aligned with newly offered programs, providing evidence that investments in higher education strengthen regional economies.
